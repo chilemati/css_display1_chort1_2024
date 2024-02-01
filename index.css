@@ -1,0 +1,15 @@
+.toBlock span{
+    border: 1px solid red;
+    margin-bottom: 1rem;
+    display: block;
+}
+.toInline div{
+    border: 1px solid blue;
+    margin-bottom: 1rem;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
